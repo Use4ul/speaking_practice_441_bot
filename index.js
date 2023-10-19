@@ -138,10 +138,6 @@ const start = () => {
           ),
         ];
       }
-      if (text === "/test") {
-        console.log("teeeeeeeeeeeeeeeeees");
-        fs.writeFile(path.join(__dirname, `users/test.txt`), "хуй");
-      }
 
       if (text === "/user_info") {
         return bot.sendMessage(
