@@ -1,0 +1,21 @@
+{
+    "message_id": 51,
+    "from": {
+        "id": 421428702,
+        "is_bot": false,
+        "first_name": "Roman",
+        "last_name": "Posokhov",
+        "username": "Roman_Posokhov",
+        "language_code": "ru"
+    },
+    "chat": {
+        "id": 421428702,
+        "first_name": "Roman",
+        "last_name": "Posokhov",
+        "username": "Roman_Posokhov",
+        "type": "private",
+        "git": "https://github.com/yagop/node-telegram-bot-api/blob/master/doc/usage.md#events"
+    },
+    "date": 1697492024,
+    "text": "df"
+}
